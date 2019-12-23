@@ -1,2 +1,2 @@
 import subprocess
-subprocess.run([".\main.exe"])
+subprocess.run(["main"])
